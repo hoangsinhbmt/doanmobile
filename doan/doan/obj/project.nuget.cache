@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "U5zLsEPVqbMOAp5QUDISE7qRvdbhjCQxveo6zW+iIU4RE5ni0eBBDjkZH0xqHvsX/6j+vGWFFd5XfYvMuRKahA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jackt\\Downloads\\doan\\doan\\doan\\doan.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jackt\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\jackt\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\jackt\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\jackt\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\jackt\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}
