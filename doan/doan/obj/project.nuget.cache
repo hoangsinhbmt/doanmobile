@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "U5zLsEPVqbMOAp5QUDISE7qRvdbhjCQxveo6zW+iIU4RE5ni0eBBDjkZH0xqHvsX/6j+vGWFFd5XfYvMuRKahA==",
+  "dgSpecHash": "5R7sWnSk9Gbgft2mC5TNUncTwsEzQYNfhMb0DPtK/K5AAxIk2kNEj6llvCMDr4WjgrEIajF/y3S3raLiD2iCUw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jackt\\Downloads\\doan\\doan\\doan\\doan.csproj",
+  "projectFilePath": "E:\\doanmobile\\doanmobile\\doan\\doan\\doan.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jackt\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\jackt\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",

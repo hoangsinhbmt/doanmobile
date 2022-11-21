@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="doan.RegisterPage"
+             BackgroundColor="#112B47">
+    <ContentPage.Content>
+        <StackLayout Padding="40" VerticalOptions="Center" HorizontalOptions="FillAndExpand">
+            <Entry x:Name="txtUsername" Placeholder="Username" TextColor="White" PlaceholderColor="Gray"></Entry>
+            <Entry x:Name="txtPassword" Placeholder="Password" IsPassword="True" TextColor="White" PlaceholderColor="Gray"></Entry>
+            <Entry x:Name="txtPasswordconfirm" Placeholder="Confirm password" IsPassword="True" TextColor="White" PlaceholderColor="Gray"></Entry>
+            <Button
+                VerticalOptions="Center"
+                Text="Login" TextColor="White"
+                BackgroundColor="Transparent"
+                BorderWidth="1.5"
+                CornerRadius="50"
+                BorderColor="ForestGreen"
+                Clicked="Button_Clicked"
+                ></Button>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

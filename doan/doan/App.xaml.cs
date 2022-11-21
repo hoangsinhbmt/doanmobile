@@ -1,6 +1,4 @@
-﻿using doan.Services;
-using doan.Views;
-using System;
+﻿using System;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 
@@ -13,8 +11,7 @@ namespace doan
         {
             InitializeComponent();
 
-            DependencyService.Register<MockDataStore>();
-            MainPage = new AppShell();
+            MainPage = new NavigationPage (new LoginUI());
         }
 
         protected override void OnStart()

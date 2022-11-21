@@ -1068,11 +1068,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jackt\\Downloads\\doan\\doan\\doan.iOS\\doan.iOS.csproj",
+      "projectUniqueName": "E:\\doanmobile\\doanmobile\\doan\\doan.iOS\\doan.iOS.csproj",
       "projectName": "doan.iOS",
-      "projectPath": "C:\\Users\\jackt\\Downloads\\doan\\doan\\doan.iOS\\doan.iOS.csproj",
+      "projectPath": "E:\\doanmobile\\doanmobile\\doan\\doan.iOS\\doan.iOS.csproj",
       "packagesPath": "C:\\Users\\jackt\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jackt\\Downloads\\doan\\doan\\doan.iOS\\obj\\",
+      "outputPath": "E:\\doanmobile\\doanmobile\\doan\\doan.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -1093,8 +1093,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "C:\\Users\\jackt\\Downloads\\doan\\doan\\doan\\doan.csproj": {
-              "projectPath": "C:\\Users\\jackt\\Downloads\\doan\\doan\\doan\\doan.csproj"
+            "E:\\doanmobile\\doanmobile\\doan\\doan\\doan.csproj": {
+              "projectPath": "E:\\doanmobile\\doanmobile\\doan\\doan\\doan.csproj"
             }
           }
         }

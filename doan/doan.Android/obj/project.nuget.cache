@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XuuXJ4rangZFZxs7bQxD8EsAVgviu5a0U83YNYI9cuWLTgOjgZxvkzEtXRvupCZCy2ld1pg1CBOT7OAqIBK7pg==",
+  "dgSpecHash": "aa5yuNuK0ME03zppPgZI2LHf/iU7aCO3BvEL717bOWYq2Gx6FIsURc52U2F2MUk89sBTV3hWa8i2amn+YDn57Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jackt\\Downloads\\doan\\doan\\doan.Android\\doan.Android.csproj",
+  "projectFilePath": "E:\\doanmobile\\doanmobile\\doan\\doan.Android\\doan.Android.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jackt\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Users\\jackt\\.nuget\\packages\\xamarin.androidx.activity\\1.2.4.1\\xamarin.androidx.activity.1.2.4.1.nupkg.sha512",

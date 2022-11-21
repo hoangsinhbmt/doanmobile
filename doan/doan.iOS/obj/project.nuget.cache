@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pSfXrcMqk08ayXEZJFLzBUqmRcRtWjOzIwIlg1g7cgUk3a94VwEhI3rVROidc7oppvUrd0ZXCt2Kn8GOQamw1Q==",
+  "dgSpecHash": "o2nczlEU54umalDDmWXWyoZ8NUEMyIHo9xe5+oU7p2SLUhNdH5Q8qmCslNMqI+D0A6VLQo/+TTCJfk9jr7tZCg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jackt\\Downloads\\doan\\doan\\doan.iOS\\doan.iOS.csproj",
+  "projectFilePath": "E:\\doanmobile\\doanmobile\\doan\\doan.iOS\\doan.iOS.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jackt\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Users\\jackt\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",

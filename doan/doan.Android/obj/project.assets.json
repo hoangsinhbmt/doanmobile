@@ -3414,11 +3414,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jackt\\Downloads\\doan\\doan\\doan.Android\\doan.Android.csproj",
+      "projectUniqueName": "E:\\doanmobile\\doanmobile\\doan\\doan.Android\\doan.Android.csproj",
       "projectName": "doan.Android",
-      "projectPath": "C:\\Users\\jackt\\Downloads\\doan\\doan\\doan.Android\\doan.Android.csproj",
+      "projectPath": "E:\\doanmobile\\doanmobile\\doan\\doan.Android\\doan.Android.csproj",
       "packagesPath": "C:\\Users\\jackt\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jackt\\Downloads\\doan\\doan\\doan.Android\\obj\\",
+      "outputPath": "E:\\doanmobile\\doanmobile\\doan\\doan.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -3439,8 +3439,8 @@
       "frameworks": {
         "monoandroid12.0": {
           "projectReferences": {
-            "C:\\Users\\jackt\\Downloads\\doan\\doan\\doan\\doan.csproj": {
-              "projectPath": "C:\\Users\\jackt\\Downloads\\doan\\doan\\doan\\doan.csproj"
+            "E:\\doanmobile\\doanmobile\\doan\\doan\\doan.csproj": {
+              "projectPath": "E:\\doanmobile\\doanmobile\\doan\\doan\\doan.csproj"
             }
           }
         }

@@ -1,0 +1,17 @@
+E:\doanmobile\doanmobile\doan\doan\bin\Debug\netstandard2.0\doan.deps.json
+E:\doanmobile\doanmobile\doan\doan\bin\Debug\netstandard2.0\doan.dll
+E:\doanmobile\doanmobile\doan\doan\bin\Debug\netstandard2.0\doan.pdb
+E:\doanmobile\doanmobile\doan\doan\obj\Debug\netstandard2.0\doan.csproj.AssemblyReference.cache
+E:\doanmobile\doanmobile\doan\doan\obj\Debug\netstandard2.0\doan.GeneratedMSBuildEditorConfig.editorconfig
+E:\doanmobile\doanmobile\doan\doan\obj\Debug\netstandard2.0\App.xaml.g.cs
+E:\doanmobile\doanmobile\doan\doan\obj\Debug\netstandard2.0\doan.AssemblyInfoInputs.cache
+E:\doanmobile\doanmobile\doan\doan\obj\Debug\netstandard2.0\doan.AssemblyInfo.cs
+E:\doanmobile\doanmobile\doan\doan\obj\Debug\netstandard2.0\doan.csproj.CoreCompileInputs.cache
+E:\doanmobile\doanmobile\doan\doan\obj\Debug\netstandard2.0\XamlC.stamp
+E:\doanmobile\doanmobile\doan\doan\obj\Debug\netstandard2.0\doan.dll
+E:\doanmobile\doanmobile\doan\doan\obj\Debug\netstandard2.0\refint\doan.dll
+E:\doanmobile\doanmobile\doan\doan\obj\Debug\netstandard2.0\doan.pdb
+E:\doanmobile\doanmobile\doan\doan\obj\Debug\netstandard2.0\ref\doan.dll
+E:\doanmobile\doanmobile\doan\doan\obj\Debug\netstandard2.0\LoginUI.xaml.g.cs
+E:\doanmobile\doanmobile\doan\doan\obj\Debug\netstandard2.0\HomePage.xaml.g.cs
+E:\doanmobile\doanmobile\doan\doan\obj\Debug\netstandard2.0\RegisterPage.xaml.g.cs
