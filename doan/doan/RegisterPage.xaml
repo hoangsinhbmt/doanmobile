@@ -5,6 +5,7 @@
              BackgroundColor="#112B47">
     <ContentPage.Content>
         <StackLayout Padding="40" VerticalOptions="Center" HorizontalOptions="FillAndExpand">
+            <Label Text="Register" TextColor="White" HorizontalTextAlignment="Center" FontSize="Large" FontAttributes="Bold"></Label>
             <Entry x:Name="txtUsername" Placeholder="Username" TextColor="White" PlaceholderColor="Gray"></Entry>
             <Entry x:Name="txtPassword" Placeholder="Password" IsPassword="True" TextColor="White" PlaceholderColor="Gray"></Entry>
             <Entry x:Name="txtPasswordconfirm" Placeholder="Confirm password" IsPassword="True" TextColor="White" PlaceholderColor="Gray"></Entry>
